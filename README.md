@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fatih-ml
 - 👀 I’m interested in DS, ML, LLMs and RAG systems
 - 🌱 I’m currently learning multi agent systems
-- 💞️ I’m looking to collaborate on RAG System development
+- 💞️ I’m looking to collaborate on RAG System development and advanced document processing
 - 📫 How to reach me [Linkedin: Fatih Calik ](https://www.linkedin.com/in/fatih-calik-ml/)
 
 <!---
